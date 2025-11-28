@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-course",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass Natours/starter/sass/main.scss Natours/starter/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McRonnic/advanced-css-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McRonnic/advanced-css-course/issues"
+  },
+  "homepage": "https://github.com/McRonnic/advanced-css-course#readme",
+  "devDependencies": {
+    "sass": "^1.94.2"
+  }
+}
